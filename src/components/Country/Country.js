@@ -1,5 +1,5 @@
 import React from 'react';
-import "../Country/Country.css";
+import "./Country.css"
 
 const Country = (props) => {
 
